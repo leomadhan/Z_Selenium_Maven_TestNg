@@ -1,0 +1,14 @@
+example\example\pages\AmazonHomePage.class
+example\example\util\MailUtil.class
+example\example\util\TestProperties.class
+example\example\tests\BaseTest.class
+example\example\factory\PageinstancesFactory.class
+example\example\context\WebDriverContext.class
+example\example\tests\AmazonSearchTest.class
+example\example\util\LoggerUtil.class
+example\example\listeners\LogListener.class
+example\example\util\ReportUtil.class
+example\example\listeners\ReportListener.class
+example\example\context\Constants.class
+example\example\pages\BasePage.class
+example\example\report\ExtentReportManager.class

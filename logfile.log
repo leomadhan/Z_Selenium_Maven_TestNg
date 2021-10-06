@@ -1,0 +1,10 @@
+2021-10-06 20:48:47,852 ************************** Test Execution Started ************************************ 
+2021-10-06 20:48:50,728 Amazon Search test: Test started 
+2021-10-06 20:48:59,260 Amazon Search test : Test Passed 
+2021-10-06 20:49:00,614 Total number of testcases : 1 
+2021-10-06 20:49:00,614 Number of testcases Passed : 1 
+2021-10-06 20:49:00,614 Number of testcases Failed : 0 
+2021-10-06 20:49:00,614 Number of testcases Skipped  : 0 
+2021-10-06 20:49:00,615 Mail sending toggel is set to false 
+2021-10-06 20:49:00,615 Mail sent : false 
+2021-10-06 20:49:00,615 ************************** Test Execution Finished ************************************ 
